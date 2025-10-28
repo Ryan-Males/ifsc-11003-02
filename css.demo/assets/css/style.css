@@ -193,8 +193,11 @@ background-color: rgba(181, 103, 24, 0.5);
 #practice td:nth-child(1n+2){
   text-align:center;
 }
-#practice td:nth-child(2), #practice td:nth-child(3){
-  
+#practice td:nth-child(2) {
+  text-align:center;
+}
+#practice td:nth-child(3){
+  text-align:center;
 }
 
 #practice th{
